@@ -36,7 +36,7 @@
 
 // The following values will probably need to be changed.
 $db['default']['username'] = "root";
-$db['default']['password'] = "123456789";
+$db['default']['password'] = "";
 $db['default']['database'] = "accufy";
 
 // The following values can probably stay the same.
